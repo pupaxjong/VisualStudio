@@ -7,4 +7,4 @@ Install Extension Tools
 ![](./VisualStudioCode/vsc_window_shortcut.png)   
 
 ### Mac Shortcut
-![](./VisualStudioCode/vsc_window_shortcut.png)   
+![](./VisualStudioCode/vsc_mac_shortcut.png)   
