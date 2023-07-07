@@ -15,4 +15,4 @@
 <br><br>
 
 ## termial path : 터미널 오픈시 현재 폴더로 오픈하기
-![터미널 오픈시 현재 폴더로 오픈하기](./Tip/vscode_open_termail_path.png)   
+![터미널 오픈시 현재 폴더로 오픈하기](./Tip/vscode_termail_path.png)   
