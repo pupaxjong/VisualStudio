@@ -11,3 +11,4 @@ Install Extension Tools
 
 ### termial path : 터미널 오픈시 현재 폴더로 오픈하기
 ![터미널 오픈시 현재 폴더로 오픈하기](./VisualStudioCode/Tip/vscode_termail_path.png)   
+
